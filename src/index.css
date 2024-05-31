@@ -1,0 +1,38 @@
+header h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #1965bb;
+  text-align: center;
+  font-size: 40px;
+}
+
+header h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #0c396d;
+  text-align: center;
+  margin-top: -0.5rem;
+}
+
+header p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #0c396d;
+  text-align: center;
+  margin-top: -1rem;
+}
+
+header {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+header div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+header div i {
+  font-size: 40px;
+  color: #1965bb;
+}

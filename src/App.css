@@ -1,0 +1,11 @@
+.map-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.map-wrapper {
+  height: 65vh;
+  width: 80%;
+}
